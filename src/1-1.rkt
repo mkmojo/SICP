@@ -1,3 +1,3 @@
-#lang racket
+#lang sicp
 
-(+ 1 42)
+(inc 42)
